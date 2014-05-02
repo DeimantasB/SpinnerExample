@@ -1,1 +1,1 @@
-Simpe Spinner Demo App
+Simple Spinner Demo Example. 
